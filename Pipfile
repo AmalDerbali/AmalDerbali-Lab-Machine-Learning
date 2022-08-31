@@ -12,6 +12,7 @@ matplotlib = "*"
 black = "*"
 sklearn = "*"
 tensorflow = "*"
+fuzzywuzzy = "*"
 
 [dev-packages]
 
