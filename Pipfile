@@ -13,6 +13,7 @@ black = "*"
 sklearn = "*"
 tensorflow = "*"
 fuzzywuzzy = "*"
+pytest = "*"
 
 [dev-packages]
 
