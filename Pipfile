@@ -14,7 +14,7 @@ sklearn = "*"
 tensorflow = "*"
 fuzzywuzzy = "*"
 pytest = "*"
-
+holidays = "*"
 [dev-packages]
 
 [requires]
