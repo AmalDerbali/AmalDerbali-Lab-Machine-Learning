@@ -16,6 +16,7 @@ fuzzywuzzy = "*"
 pytest = "*"
 holidays = "*"
 "plotly.express" = "*"
+yellowbrick = "*"
 
 [dev-packages]
 
